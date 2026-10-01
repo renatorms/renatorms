@@ -7,7 +7,6 @@
 Construo aplicações web de ponta a ponta — da modelagem do banco à interface, passando por integrações e infraestrutura em produção.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renato-ramos-machado)
-![Santa Maria, RS](https://img.shields.io/badge/Santa_Maria,_RS-555555?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
