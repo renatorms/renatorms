@@ -46,7 +46,7 @@ Construo aplicações web de ponta a ponta — da modelagem do banco à interfac
 
 ## 🚀 Projetos
 
-### 👑 [Royal Conceito](https://github.com/renatorms/royal-conceito-showcase) — e-commerce em produção
+### 👑 [Royal Conceito](https://github.com/renatorms/royal-conceito-showcase) — e-commerce entregue em produção
 
 Plataforma de e-commerce para uma marca de streetwear com duas lojas físicas, desenvolvida sozinho como freelance, do zero ao deploy.
 
@@ -55,11 +55,11 @@ Plataforma de e-commerce para uma marca de streetwear com duas lojas físicas, d
 - **Integrações reais:** pagamento com confirmação via webhook e cálculo de frete por API de terceiros
 - **Infraestrutura:** PostgreSQL (Supabase), Render, Cloudflare Pages e Cloudflare R2
 
-🌐 **[royalconceito.com.br](https://royalconceito.com.br)** · 📂 **[Showcase do projeto](https://github.com/renatorms/royal-conceito-showcase)**
+📂 **[Showcase do projeto](https://github.com/renatorms/royal-conceito-showcase)**
 
 ### 🧠 Neurodiversicidade — plataforma de pesquisa *(em desenvolvimento)*
 
-Dashboard de autodiagnóstico para gestores públicos sobre inclusão da neurodiversidade em cidades inteligentes, baseado em tese de doutorado da UFSM. Desenvolvido como bolsista de Iniciação Científica no grupo de pesquisa Ecoinovar (UFSM/CNPq).
+Dashboard de autodiagnóstico para gestores públicos sobre inclusão da neurodiversidade em cidades inteligentes, baseado em tese de doutorado da UFSM. Desenvolvido como bolsista de Iniciação Científica no grupo de pesquisa Ecoinovar (UFSM/FAPERGS).
 
 - **Backend:** Django + Django REST Framework, modelo de usuário customizado e autenticação
 - **Frontend:** React + TypeScript (Vite), com resultados por dimensão e comparação entre municípios em gráficos Recharts
