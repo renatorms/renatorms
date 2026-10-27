@@ -46,7 +46,7 @@ Construo aplicações web de ponta a ponta — da modelagem do banco à interfac
 
 ## 🚀 Projetos
 
-### 👑 [Royal Conceito](https://github.com/renatorms/royal-conceito-showcase) — e-commerce entregue em produção
+### 👑 [Royal Conceito](https://github.com/renatorms/royal-conceito-showcase) — e-commerce para marca de streetwear
 
 Plataforma de e-commerce para uma marca de streetwear com duas lojas físicas, desenvolvida sozinho como freelance, do zero ao deploy.
 
