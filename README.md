@@ -57,12 +57,15 @@ Plataforma de e-commerce para uma marca de streetwear com duas lojas físicas, d
 
 📂 **[Showcase do projeto](https://github.com/renatorms/royal-conceito-showcase)**
 
-### 🧠 Neurodiversicidade — plataforma de pesquisa *(em desenvolvimento)*
+### 🧠 Neurodiversicidade — plataforma de pesquisa *(MVP concluído)*
 
 Dashboard de autodiagnóstico para gestores públicos sobre inclusão da neurodiversidade em cidades inteligentes, baseado em tese de doutorado da UFSM. Desenvolvido como bolsista de Iniciação Científica no grupo de pesquisa Ecoinovar (UFSM/FAPERGS).
 
-- **Backend:** Django + Django REST Framework, modelo de usuário customizado e autenticação
-- **Frontend:** React + TypeScript (Vite), com resultados por dimensão e comparação entre municípios em gráficos Recharts
+- **Backend:** Django + DRF, API pública com throttling, relatório por link secreto (token com hash SHA-256) e exportação CSV no Admin
+- **Frontend:** React + TypeScript (Vite), questionário em etapas, resultados por dimensão, comparação anônima entre municípios (Recharts) e relatório em PDF
+- **Infraestrutura:** SQLite (WAL), nginx, gunicorn e systemd em VPS Linux
+
+📂 **[Showcase do projeto](https://github.com/renatorms/neurodiversicidade-showcase)**
 
 ---
 
